@@ -73,11 +73,7 @@ Model akhir tersedia di folder `model/healthyHen_model.tflite` dan dapat digunak
 
 Contoh penggunaan akan tersedia pada rilis berikutnya.
 
-## 📜 Lisensi
-
-Proyek ini dirilis di bawah lisensi [CC BY 4.0](LICENSE). Silakan mencantumkan atribusi jika menggunakan kode atau model ini.
-
 ---
 
-Dibuat oleh tim **HealthyHen**
-Solusi AI untuk peternak ayam skala kecil dan menengah 🇮🇩
+Beyond the Outliers
+Datahon 2025
